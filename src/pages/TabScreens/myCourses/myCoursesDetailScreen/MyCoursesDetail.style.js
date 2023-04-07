@@ -1,0 +1,43 @@
+import { StyleSheet } from "react-native";
+export default StyleSheet.create({
+  container:{
+    flex:1,
+  },
+  image:{
+    width:400,
+    height:260,
+  },
+  littleImageBody:{
+    margin:20,
+    flexDirection:'row',
+  },
+  littleImage:{
+    borderRadius:5,
+    width:70,
+    height:70,
+  },
+  textArea:{
+    marginLeft:10,
+    justifyContent:'space-evenly',
+  },
+  title:{
+    fontSize:19,
+    fontWeight:'bold',
+  },
+  teacher:{
+    fontSize:16,
+    fontWeight:'300',
+  },
+  footerTextArea:{
+    alignItems:'center',
+    padding:7,
+    backgroundColor:'#f0f8ff',
+    justifyContent:'space-between',
+    flexDirection:'row',
+  },
+  footerText:{
+    fontWeight:'bold',
+    fontSize:21,
+    marginLeft:10,
+  }
+})

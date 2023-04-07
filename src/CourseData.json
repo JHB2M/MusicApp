@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner's Guitar Course",
+    "teacher": "John Dean",
+    "star": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Z3VpdGFyJTIwY291cnNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 2345,
+    "comments": 25,
+    "hours": 2.5,
+    "learn": [
+      "Learn the basic chords",
+      "Strumming techniques for beginners",
+      "Fingerpicking patterns",
+      "Playing simple songs",
+      "Tips for practicing effectively"
+    ],
+    "sections": [
+      {
+        "title": "How to hold the guitar",
+        "video_length": 1.45
+      },
+      {
+        "title": "How to tune the guitar",
+        "video_length": 2.12
+      },
+      {
+        "title": "Basic chords",
+        "video_length": 3.27
+      },
+      {
+        "title": "Strumming techniques",
+        "video_length": 4.02
+      },
+      {
+        "title": "Playing a simple song",
+        "video_length": 5.18
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Intermediate Guitar Course",
+    "teacher": "Emily Jones",
+    "star": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1504622956513-06165f390646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGd1aXRhciUyMGNvdXJzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 1642,
+    "comments": 50,
+    "hours": 3.5,
+    "learn": [
+      "Advanced chords and chord progressions",
+      "Alternate picking techniques",
+      "Scales and modes",
+      "Playing more complex songs",
+      "Improvisation and soloing"
+    ],
+    "sections": [
+      {
+        "title": "How to hold the guitar",
+        "video_length": 1.45
+      },
+      {
+        "title": "Tuning the guitar",
+        "video_length": 3.22
+      },
+      {
+        "title": "Playing basic chords",
+        "video_length": 4.56
+      },
+      {
+        "title": "Strumming patterns",
+        "video_length": 2.10
+      },
+      {
+        "title": "Playing simple songs",
+        "video_length": 6.33
+      }
+    ]
+
+    
+  },
+  {
+    "id": 3,
+    "title": "Advanced Guitar Course",
+    "teacher": "Mark Davis",
+    "star": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 987,
+    "comments": 12,
+    "hours": 4.0,
+    "learn": [
+      "Advanced techniques for fingerstyle playing",
+      "Advanced soloing and improvisation",
+      "Jazz chords and progressions",
+      "Playing in odd time signatures",
+      "Music theory for advanced guitarists"
+    ],
+
+    
+  "sections": [
+    {
+      "title": "Advanced Techniques",
+      "video_length": 2.15
+    },
+    {
+      "title": "Music Theory for Advanced Guitarists",
+      "video_length": 3.30
+    },
+    {
+      "title": "Advanced Chord Progressions",
+      "video_length": 2.45
+    },
+    {
+      "title": "Improvisation and Soloing",
+      "video_length": 4.10
+    },
+    {
+      "title": "Advanced Guitar Maintenance and Setup",
+      "video_length": 1.55
+    }
+  ]
+  },
+
+  {
+    "id": 4,
+    "title": "Acoustic Guitar Course",
+    "teacher": "Sarah Lee",
+    "star": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1580745089072-032cbde08507?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWNvdXN0aWMlMjBndWl0YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 3567,
+    "comments": 30,
+    "hours": 2.0,
+    "learn": [
+      "Basic fingerpicking patterns for acoustic guitar",
+      "Strumming patterns for different genres",
+      "Playing acoustic covers of popular songs",
+      "Using percussive techniques on acoustic guitar",
+      "Recording and mixing acoustic guitar tracks"
+    ],
+  
+  "sections": [
+    {
+      "title": "Introduction to Acoustic Guitar",
+      "video_length": 2.10
+    },
+    {
+      "title": "Tuning the Acoustic Guitar",
+      "video_length": 3.25
+    },
+    {
+      "title": "Basic Acoustic Guitar Chords",
+      "video_length": 4.05
+    },
+    {
+      "title": "Strumming Techniques for Acoustic Guitar",
+      "video_length": 5.15
+    },
+    {
+      "title": "Fingerpicking on Acoustic Guitar",
+      "video_length": 6.20
+    }
+  ]
+
+  },
+  {
+    "id": 5,
+    "title": "Electric Guitar Course",
+    "teacher": "Tom Wilson",
+    "star": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1541689592655-f5f52825a3b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 789,
+    "comments": 8,
+    "hours": 3.0,
+    "learn": [
+      "Advanced techniques for playing with distortion",
+      "Using effects pedals to shape your tone",
+      "Playing lead guitar in a band setting",
+      "Music theory for electric guitarists",
+      "Creating your own guitar solos"
+    ],
+   
+    "sections": [
+      {
+        "title": "Introduction to Electric Guitar",
+        "video_length": 2.13
+      },
+      {
+        "title": "Guitar Amplifiers and Effects",
+        "video_length": 3.22
+      },
+      {
+        "title": "Electric Guitar Techniques",
+        "video_length": 4.05
+      },
+      {
+        "title": "Advanced Electric Guitar Techniques",
+        "video_length": 5.17
+      },
+      {
+        "title": "Maintenance and Care for Electric Guitars",
+        "video_length": 1.58
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Blues Guitar Course",
+    "teacher": "Robert Johnson",
+    "star": 3.5,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664368368715-9f3392d46c38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGd1aXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 1234,
+    "comments": 20,
+    "hours": 2.5,
+    "learn": [
+      "Basic blues chord progressions",
+      "Playing the blues scale and variations",
+      "Different blues styles and their characteristics",
+      "Using bending and vibrato to add expressiveness",
+      "Creating your own blues licks and riffs"
+    ],
+    
+  "sections": [
+    {
+      "title": "Introduction to Blues Guitar",
+      "video_length": 2.30
+    },
+    {
+      "title": "12 Bar Blues Chord Progression",
+      "video_length": 3.45
+    },
+    {
+      "title": "Blues Rhythm Guitar Techniques",
+      "video_length": 4.10
+    },
+    {
+      "title": "Blues Soloing Techniques",
+      "video_length": 5.25
+    },
+    {
+      "title": "Blues Guitar Improvisation",
+      "video_length": 6.20
+    }
+  ]
+  },
+
+  {
+    "id": 7,
+    "title": "Classical Guitar Course",
+    "teacher": "Andres Segovia",
+    "star": 4.5,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664279047178-12592c543ad4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGd1aXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 456,
+    "comments": 10,
+    "hours": 3.0,
+    "learn": [
+      "Basic classical guitar techniques",
+      "Playing classical pieces by composers such as Bach and Mozart",
+      "Music theory for classical guitarists",
+      "Advanced fingerpicking patterns",
+      "Creating your own classical guitar arrangements"
+    ],
+    
+    "sections": [
+      {
+        "title": "Advanced Fingerpicking Techniques",
+        "video_length": 3.15
+      },
+      {
+        "title": "Advanced Strumming Patterns",
+        "video_length": 2.50
+      },
+      {
+        "title": "Advanced Chord Progressions",
+        "video_length": 4.20
+      }, {
+        "title": "Basic Fingerpicking Patterns",
+        "video_length": 2.30
+      },
+      {
+        "title": "Basic Strumming Patterns",
+        "video_length": 1.45
+      }
+    ]
+  },
+  
+  {
+    "id": 8,
+    "title": "Advanced Guitar Course",
+    "teacher": "Mark Davis",
+    "star": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "enrolled": 987,
+    "comments": 12,
+    "hours": 4.0,
+    "learn": [
+      "Advanced techniques for fingerstyle playing",
+      "Advanced soloing and improvisation",
+      "Jazz chords and progressions",
+      "Playing in odd time signatures",
+      "Music theory for advanced guitarists"
+    ],
+   
+    "sections": [
+      {
+        "title": "Alternate Picking Techniques",
+        "video_length": 3.21
+      },
+      {
+        "title": "Sweep Picking Exercises",
+        "video_length": 4.12
+      },
+      {
+        "title": "Advanced String Bending",
+        "video_length": 2.58
+      },
+      {
+        "title": "Harmonic Minor Scale",
+        "video_length": 5.36
+      },
+      {
+        "title": "Diminished Scale Patterns",
+        "video_length": 6.03
+      }
+    ]
+  }
+]

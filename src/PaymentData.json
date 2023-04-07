@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Joseph Henrry Blackburne",
+    "card_number": "1234 5678 9876 5432",
+    "card_brand": "VISA",
+    "valid_thru": "03/23",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "title": "Mary Brown",
+    "card_number": "4567 8901 2345 6789",
+    "card_brand": "Mastercard",
+    "valid_thru": "05/24",
+    "color": "red"
+  },
+  {
+    "id": 3,
+    "title": "John Doe",
+    "card_number": "9876 5432 1234 5678",
+    "card_brand": "American Express",
+    "valid_thru": "09/25",
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "title": "Samantha Johnson",
+    "card_number": "6543 2109 8765 4321",
+    "card_brand": "Discover",
+    "valid_thru": "12/23",
+    "color": "purple"
+  },
+  {
+    "id": 5,
+    "title": "David Lee",
+    "card_number": "2468 1357 9135 7901",
+    "card_brand": "Visa",
+    "valid_thru": "08/24",
+    "color": "orange"
+  }
+]
