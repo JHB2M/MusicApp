@@ -1,6 +1,8 @@
 # Music Store Mobile Application
 This is a React Native mobile application that allows users to register for courses and purchase musical instruments.
 
+More than 3000 lines of code
+
 # Features
 
 * User registration and login
